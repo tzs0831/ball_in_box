@@ -63,7 +63,7 @@ def max_in_nine_points(ox, oy, d, circles, blockers):
         #if second_circle[2] - center_circle2 <0.0000001:
             #if max_circle[2] > second_circle[2]:
                 #return max_circle
-        # else:
+        #  else:
         #return second_circle
         #else:
             #return max_in_nine_points(second_circle[0], second_circle[1], d/2, circles, blockers)
