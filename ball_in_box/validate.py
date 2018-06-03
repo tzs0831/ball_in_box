@@ -1,7 +1,7 @@
 import math
 
 def validate(circles, blockers):
-    # Is circle in the box?
+    # Is THE circle in the box?
     for circle in circles:
         xmr = circle[0] - circle[2]
         xpr = circle[0] + circle[2]
